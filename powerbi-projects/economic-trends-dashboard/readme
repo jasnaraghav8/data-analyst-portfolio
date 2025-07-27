@@ -1,1 +1,29 @@
+# 📊 Economic Trends Dashboard
+
+An interactive Power BI/Excel dashboard that visualizes long-term trends in key economic indicators like GDP growth, inflation, and unemployment across countries.
+
+---
+
+## 📁 Files
+- `economic_trends.pbix` – Main Power BI file
+- `dataset.xlsx` – Cleaned economic data
+- `sample_dashboard.png` – Preview of the dashboard
+
+---
+
+## 📈 Dashboard Highlights
+- 20-year trend analysis of GDP, inflation, and unemployment
+- Country-wise comparison and global averages
+- KPI cards for latest available values
+- Slicers for region and indicator type
+
+---
+
+## 📊 Data Source
+- [World Bank Open Data](https://data.worldbank.org/)
+
+
+## 🛠 Tools Used
+- Power BI
+- Excel
 
