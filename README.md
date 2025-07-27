@@ -10,7 +10,8 @@ I'm a Data Analyst with over 7 years of experience at IBM, passionate about turn
 1. 🐦 Python + API - Twitter Trend Analyzer
 
 Pulled real-time data using Twitter’s API and visualized trending hashtags over time. Used sentiment scoring to identify mood swings around events and products.
-View Project →
+View Project → (./python-projects/twitter-trend-analyzer)
+
 2. 📈 Excel/Power BI - Economic Trends Dashboard
 
 Analyzed GDP, inflation, and employment trends over 10 years using public economic data. Created interactive charts with forecasting insights using Excel + Power BI.
